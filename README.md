@@ -1,4 +1,5 @@
 中国大陆注册币安
+
 现阶段要使用梯子  以下全程使用香港节点
 
 首先注册gmail  https://gmail.google.com/
